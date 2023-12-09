@@ -4,7 +4,7 @@ The provided code creates all the objects you require to support the algorithm a
 This willproduce a probability matrix of how likely TeamA will win at home or Draw or Team B will win away.
 ## Getting Started
 
-Download [all_in_one](/all_in_one.sql].sql).
+Download [all_in_one](/all_in_one.sql).
 This script creates all the objects and jobs that you need.
 
 You can also download the objects as separate scripts:
