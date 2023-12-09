@@ -2,6 +2,7 @@
 An implementation of the ELO algorithm in SQL Server.
 The provided code creates all the objects you require to support the algorithm and it uses EPL football results in the demo.
 This willproduce a probability matrix of how likely TeamA will win at home or Draw or Team B will win away.
+
 ## Getting Started
 
 Download [all_in_one](/all_in_one.sql).
