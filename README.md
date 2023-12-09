@@ -13,4 +13,4 @@ Note that you will need to have permissions to create databases, schemas, tables
 Supported versions: SQL Server 2008, SQL Server 2008 R2, SQL Server 2012, SQL Server 2014, SQL Server 2016, SQL Server 2017, SQL Server 2019
 
 ## Documentation
-[ELO Rating System](/https://en.wikipedia.org/wiki/Elo_rating_system).
+[ELO Rating System](https://en.wikipedia.org/wiki/Elo_rating_system).
