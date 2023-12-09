@@ -20,4 +20,4 @@ BEGIN
 		)
 	);
 END
-GO;
+GO
